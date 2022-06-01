@@ -1,0 +1,45 @@
+body {
+    background-color: #371B58;
+}
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}
+.btnAumentar,.btnReset,.btnDisminuir {
+    margin-right: 10px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btnAumentar {
+    background-color: #14C38E;
+}
+.btnReset {
+    background-color: #5F7161;
+}
+.btnDisminuir {
+    background-color: #B22727;
+}
+.caja {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+@media(max-width: 550px) {
+    main {
+        max-width: 150px;
+        margin: 0 auto;
+    }
+    .btnAumentar,.btnReset,.btnDisminuir {
+        margin-top: 20px;
+    }
+}
