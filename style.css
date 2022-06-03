@@ -1,7 +1,7 @@
 body {
     background-color: #371B58;
 }
-main {
+.container {
     display: flex;
     justify-content: center;
     margin-top: 100px;
