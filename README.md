@@ -15,7 +15,7 @@
     <li>Los botones tienen la funcionalidad de Aumentar, Disminuir, Resetear
       
 <h4> 📁 Acceso al proyecto (link) 👇<h3>
-   <h5>https://sergio3144.github.io/Calculadora-B-sica/
+   <h5> https://sergio3144.github.io/contador/
 <h4> 🔥 Tecnologías utilizadas <h4>
 
   <ul>
